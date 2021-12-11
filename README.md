@@ -10,4 +10,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 ### Desktop:
-![webpage](https://i.imgur.com/2os419N.png)
+![webpage](https://github.com/murilonp/projeto-site-flexbox/blob/main/assets/images/layout.png)
